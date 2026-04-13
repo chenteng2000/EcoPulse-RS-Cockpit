@@ -67,4 +67,4 @@ npm run dev
 
 ---
 
-**Designed with ❤️ by [YourName/Handle]**
+**Designed with ❤️ by AntonyPane**
