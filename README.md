@@ -9,7 +9,7 @@
 
 > **"A heartbeat of Earth captured in digital twin: Where remote sensing meets intelligent decision-making."**
 >
-> **“捕捉大地的脉动：遥感信息技术与数字孪生的数智交响。”**
+> **“捕捉大地的脉动：遥感信息技术与数字孪生的数智交响！”**
 
 ---
 
