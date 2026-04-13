@@ -50,3 +50,22 @@ npm install
 
 # 启动项目
 npm run dev
+
+---
+
+## 📅 路线图 (Roadmap)
+
+- [x] **Phase 1:** 搭建项目基础架构与深色视觉主题
+- [ ] **Phase 2:** 集成 Cesium/Three.js 地形与 3D 模型渲染
+- [ ] **Phase 3:** 接入实时遥感数据流与 GeoJSON 可视化图层
+- [ ] **Phase 4:** 部署 AI 决策智能体 (Agent) 模块
+
+---
+
+## 🤝 贡献与反馈 (Contribution)
+
+如果你对“生态遥感”或“数字孪生可视化”感兴趣，欢迎提交 Issue 或 Pull Request。
+
+---
+
+**Designed with ❤️ by [YourName/Handle]**
