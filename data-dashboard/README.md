@@ -1,6 +1,6 @@
 # Data Cockpit (数据驾驶舱)
 
-基于 Vue 3 + Vite + TypeScript 构建的现代化企业级数据驾驶舱（Data Cockpit）项目。专为大屏数据可视化、实时业务监控与多维数据分析而设计。
+基于 React + Vite + TypeScript 构建的现代化企业级数据驾驶舱（Data Cockpit）项目。专为大屏数据可视化、实时业务监控与多维数据分析而设计。
 
 ## ✨ 特性
 
@@ -48,8 +48,8 @@ pnpm build
 │   ├── assets/       # 静态资源
 │   ├── components/   # 公共组件
 │   ├── views/        # 页面 (路由视图)
-│   ├── App.vue       # 根组件
-│   └── main.ts       # 全局入口文件
+│   ├── App.tsx       # 根组件
+│   └── main.tsx      # 全局入口文件
 ├── vite.config.ts    # Vite 配置
 └── package.json      # 项目元数据及依赖
 ```
